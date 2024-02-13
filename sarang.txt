@@ -1,0 +1,7 @@
+this is my first time use of git 
+so i did not make any changes in that right now 
+cls
+close
+cat sarang.txt
+:x
+
